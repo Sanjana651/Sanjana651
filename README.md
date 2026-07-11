@@ -55,7 +55,7 @@ Full Stack Developer based in Washington, DC
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana651&show_icons=true&locale=en&layout=compact)](https://github.com/Sanjana651)
 
-[![Sanjana651's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanjana651&)](https://github.com/Sanjana651)
+[![Sanjana651's GitHub streak](https://streak-stats.demolab.com/?user=Sanjana651)](https://github.com/Sanjana651)
 
 
 
