@@ -58,18 +58,6 @@ I'm a full-stack developer with expertise in building scalable web applications.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjana651&show_icons=true&theme=light&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=0366d6)
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana651&layout=compact&theme=light&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333)
-
-</div>
-
-<div align="center">
-
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Sanjana651&theme=light&hide_border=true&background=ffffff&stroke=333333&ring=0366d6&fire=ff5733&currStreakNum=000000&sideNums=333333&currStreakLabel=000000&sideLabels=333333&dates=666666)
 
 </div>
